@@ -21,6 +21,6 @@ You can also use multiple LoRA by uncommenting.
 Edit the prompt, negative prompt and other parameters in block 6.
 ## Step 6.  
 Run all the block.  
-If you don't use LoRA. Skip block 4 and 5.  
+If don't use LoRA, skip block 4 and 5.  
 ## Reference  
 https://www.youtube.com/watch?v=8_V8CO_Dbdw&t=2s
